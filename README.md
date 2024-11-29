@@ -1,5 +1,5 @@
 # CodeAlpha_Projects
- Code Alpha Internship Tasks
+ Code Alpha Internship Tasks (CodeAlpha 2024 - 1st Nov to 30th Nov) - 3 
 
 Q1: Develop a program that allows a teacher to enter
 students' grades and compute their average,
